@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository.
 <br>
-Author:Vijay Bisht.
+Author: Vijay Bisht.(VIcky)
